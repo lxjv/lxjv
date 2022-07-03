@@ -1,0 +1,2 @@
+export TYPEWRITTEN_PROMPT_LAYOUT="pure_verbose"
+export TYPEWRITTEN_SYMBOL=">"
