@@ -9,5 +9,4 @@ contacts:     # A list of contact information
     - "email: la@laker.gay"
     - "Mastodon: @la@social.lol"
 urls:         # A list of URLs to display on your page
-    - "https://url.com"
-    - "https://web.site"
+    - "https://laker.tech"
