@@ -1,16 +1,12 @@
-### Hi there 👋
+```
+ ,dPYb,             ,dPYb,                        
+ IP'`Yb             IP'`Yb                        
+ I8  8I             I8  8I                        
+ I8  8'             I8  8bgg,                     
+ I8 dP    ,gggg,gg  I8 dP" "8   ,ggg,    ,gggggg, 
+ I8dP    dP"  "Y8I  I8d8bggP"  i8" "8i   dP""""8I 
+ I8P    i8'    ,8I  I8P' "Yb,  I8, ,8I  ,8'    8I 
+,d8b,_ ,d8,   ,d8b,,d8    `Yb, `YbadP' ,dP     Y8,
+8P'"Y88P"Y8888P"`Y888P      Y8888P"Y8888P      `Y8
 
-<!--
-**lxjv/lxjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
