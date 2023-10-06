@@ -9,5 +9,7 @@
 ,d8b,_ ,d8,   ,d8b,,d8    `Yb, `YbadP' ,dP     Y8,
 8P'"Y88P"Y8888P"`Y888P      Y8888P"Y8888P      `Y8
 ```
-[@la@social.lol](https://social.lol/@la) (currently on a sabbatical [mostly])
 
+Hey! I'm Laker. If you want to see my projects, go to [gh://wideaawake](https://github.com/wideaawake), I don't store them here.
+
+If you want to know more about me, go to [laker.tech](https://laker.tech)
