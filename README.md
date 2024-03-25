@@ -14,5 +14,5 @@
 
 Hey! I'm Laker. If you want to know more about me, go to [laker.tech](https://laker.tech).
 
-> [!INFO]
-> I'm currently moving all of my personal projects to [sourcehut](https://sr.ht/~la)
+> [!IMPORTANT]
+> I'm currently moving all of my personal projects to [sourcehut](https://sr.ht/~la). I'll keep my account open here for contributing though.
