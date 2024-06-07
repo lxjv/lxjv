@@ -14,4 +14,4 @@
 
 Hey! I'm Laker. If you want to know more about me, go to [laker.tech](https://laker.tech).
 
-> I'm currently moving my personal projects to my own git server [git.laker.tech/la[https://git.laker.tech/la)
+> I'm currently moving my personal projects to my own git server [git.laker.tech/la](https://git.laker.tech/la)
