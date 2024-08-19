@@ -16,8 +16,10 @@
                       `Y8P"                 
 ```
 
-Hi! I'm Laker ([she/her](https://laker.tech/pronouns)). I like to code for fun. I either put it here or on [gh://wideaawake](/wideaawake).
+Hi! I'm Laker ([she/her](https://laker.tech/pronouns)). I like to code, but I'm a musician by trade.
 
-While I don't like Github or Microsoft, this is where everyone else uses so I'll stay here I guess.
+While I don't like Microsoft, this is where everyone else uses so I'll stay here I guess.
 
 [web](https://laker.tech) | [mstdn](https://social.lol/@la) | [other places](https://laker.lol)
+
+love yourself
